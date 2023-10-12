@@ -1,0 +1,1 @@
+module.exports = uri = "mongodb+srv://admin:admin@myatlasclusteredu.opxelwq.mongodb.net/";
